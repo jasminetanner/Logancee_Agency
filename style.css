@@ -5,25 +5,26 @@
 #app {
 	margin: 0 auto;
 	background-size: cover;
-	/*background-image: url("assets/home_agency.jpg");*/
+	background-image: url("assets/home_agency.jpg");
 	height: 3100px;
+	width: 960px;
 }
 
 #app header {
 	background-size: cover;
-	background-image: url("assets/lion1.png");
+	background-image: url("assets/lion2.png");
 	height: 673px;
-	/*opacity: 0.5;*/
+	opacity: 0.5;
 	
 }
 
 .header--logo {
-	padding: 34px 0px 0px 50px ;
+	padding: 29px 0px 0px 38px ;
 }
 
 .header--logo h1 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 18px;
+    font-size: 15px;
     color: white;
     font-weight: bold;
     letter-spacing: 2.2px;
@@ -41,45 +42,46 @@
 }
 
 .header--welcome {
-	padding: 159px 0px 0px 260px;
+	padding: 124px 0px 0px 210px;
 }
 
 .header--welcome span {
 	font-family: 'Montserrat', sans-serif;
 	color: white;
 	font-weight: bold;
-	font-size: 12px; 
+	font-size: 10px; 
 	letter-spacing: 2.2px;
 }
 
 .header--title {
-	padding: 53px 0px 0px 0px;
+	padding: 40px 0px 0px 0px;
 }
 
 .header--title h2 {
 	font-family: 'Montserrat', sans-serif;
 	color: white;
 	font-weight: bold;
-	font-size: 44px; 
+	font-size: 38px; 
 	letter-spacing: 2.2px;
 }
 
 .header--info {
-	padding: 12px 0px 0px 0px;
+	padding: 4px 0px 0px 0px;
 }
 
 .header--info span {
 	font-family: 'Montserrat', sans-serif;
-	color: white;
-	font-size: 10px; 
+	letter-spacing: 0px;
+	color: red;
+	font-size: 8px; 
 }
 
 .header--arrow {
 	display: block;
-	margin: 45px 0px 0px 4px;
-    width: 18px;
-    height: 18px;
-    border: solid 3px white;
+	margin: 32px 0px 0px 4px;
+    width: 15px;
+    height: 15px;
+    border: solid 2px white;
     border-radius: 32px;
 }
 
